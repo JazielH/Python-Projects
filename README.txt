@@ -1,6 +1,5 @@
 # Jaziel Herrera
 # jazielh@uci.edu
-# 78328456
 
 ICS 32 Distributed Social Messenger
 
