@@ -1,6 +1,5 @@
 # Jaziel Herrera
 # jazielh@uci.edu
-# 78328456
 # test_ds_protocol.py
 
 import ds_protocol
