@@ -1,6 +1,5 @@
 # Jaziel Herrera
 # jazielh@uci.edu
-# 78328456
 # test_ds_messenger.py
 
 import ds_messenger
