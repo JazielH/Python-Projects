@@ -1,6 +1,5 @@
 # Jaziel Herrera
-# jazielh442@gmail.com
-# 78328456
+# jazielh@uci.edu
 
 from pathlib import Path
 import shlex
