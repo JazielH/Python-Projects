@@ -1,6 +1,5 @@
 # Jaziel Herrera
 # jazielh@uci.edu
-# 78328456
 # a4.py
 
 import tkinter as tk
