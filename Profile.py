@@ -1,6 +1,5 @@
 # Jaziel Herrera
 # jazielh@uci.edu
-# 78328456
 # Profile.py
 
 import json
