@@ -1,6 +1,5 @@
 # Jaziel Herrera
 # jazielh@uci.edu
-# 78328456
 # a2.py
 
 from ui import create_profile, load_profile, edit_profile, print_profile_data, delete_file, read_file, parse_command
